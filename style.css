@@ -1,0 +1,35 @@
+.red{
+    background-color:	#FF0000;
+    width: 200px;
+    height: 200px;
+    border-radius:30px 30px 30px 30px;
+    background-image:url(orange.png );
+    float:left;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:180px 180px
+
+
+    
+
+
+}
+
+.yellow{
+    background-color: #FFFF37	;
+    width: 200px;
+    height: 200px;
+    border-radius: 30px 30px 30px 30px;
+    background-image:url(broccoli.png);
+    float:left;
+    background-repeat:no-repeat;
+    background-position:center;
+    
+    background-size:180px 180px
+  
+}
+
+
+
+
+
